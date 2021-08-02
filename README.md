@@ -14,6 +14,8 @@ when entering Brian2. Think of times in ms.
 
 Implementation partially based on: https://github.com/IGITUGraz/LSM
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schmitts/n-bit-parity/main?filepath=nbp.ipynb)
+
 # Howto
 
 ```shell
